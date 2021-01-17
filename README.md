@@ -3,7 +3,7 @@
 <img src="ilse.png">
 
 Ilse is designed as a low cost, easy to build, but still flexible and feature rich synthesizer. 
-It is based on Syntherjacks single-chip synthesizer Totoro and extends the design for voltage control on filter, oscillators and LFO.
+It is based on Syntherjacks single-chip synthesizer [Totoro](https://syntherjack.net/totoro-1-ic-simple-synth/) and extends the design for voltage control on filter, oscillators and LFO.
 
 Components: 
 
