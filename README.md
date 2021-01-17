@@ -1,5 +1,7 @@
 # ILSE. An Analog Monophonic Synthesizer Module for Education
 
+<img src="ilse.png">
+
 Ilse is designed as a low cost, easy to build, but still flexible and feature rich synthesizer. 
 It is based on Syntherjacks single-chip synthesizer Totoro and extends the design for voltage control on filter, oscillators and LFO.
 
@@ -20,9 +22,6 @@ Modulation Inputs:
 - LFO Speed (linear, via pin header)
 - Oscillator 2 detune (linear, via pin header)
 
-<img src="3d_viewer.jpg" width="500">
-
-
-<img src="ilse.png" width="500">
+<img src="3d_viewer.jpg">
 
 You can find the [schematic here](ilse.pdf).
