@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name "CHAIR")(type "KiCad")(uri "/home/clemens/workspace/Kicad/chair-library/modules/CHAIR.pretty")(options "")(descr ""))
+  (lib (name "hybrid")(type "KiCad")(uri "${KIPRJMOD}/hybrid.pretty")(options "")(descr ""))
 )
