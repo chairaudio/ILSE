@@ -1,0 +1,68 @@
+(footprint "C_Rect_(hybrid SMD-THT)_P5.00mm 0604" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 5AE50EF0)
+  (descr "C, Rect series, Radial, pin pitch=5.00mm, , length*width=7.2*2.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf")
+  (tags "C Rect series Radial pin pitch 5.00mm  length 7.2mm width 2.5mm Capacitor")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 2.5 -2.5) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 99485235-dd3a-438d-a613-cfeadc790584)
+  )
+  (fp_text value "C_Rect_(hybrid SMD-THT)_P5.00mm_FKS2_FKP2_MKS2_MKP2" (at 2.5 2.5) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a048a2bd-a353-4764-ba92-306f077fc551)
+  )
+  (fp_text user "${REFERENCE}" (at 2.794 0.0254) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 003ac5a6-1f3d-45a2-8525-c42bdc5f3fac)
+  )
+  (fp_line (start 1.72778 0.0064) (end 0 0) (layer "F.Cu") (width 0.2) (tstamp 4f6f92b4-21d3-47cd-be62-ad829533aed3))
+  (fp_line (start 3.27778 0.0064) (end 5 0) (layer "F.Cu") (width 0.2) (tstamp e65764f5-5e72-4c57-adef-0d8c3056cede))
+  (fp_line (start 2.3622 0.5164) (end 2.64336 0.5164) (layer "F.SilkS") (width 0.12) (tstamp 0f4838d6-f02f-443b-acf9-48dffeea793f))
+  (fp_line (start -1.22 -1.37) (end 6.22 -1.37) (layer "F.SilkS") (width 0.12) (tstamp 3f53228e-b025-45db-8166-04163f85259c))
+  (fp_line (start -1.22 -1.37) (end -1.22 1.37) (layer "F.SilkS") (width 0.12) (tstamp 7b4701db-f253-4483-808d-210152ad2ebe))
+  (fp_line (start 2.3622 -0.5036) (end 2.64336 -0.5036) (layer "F.SilkS") (width 0.12) (tstamp c1fde5f6-5d2f-4b98-9579-961589a93cc8))
+  (fp_line (start -1.22 1.37) (end 6.22 1.37) (layer "F.SilkS") (width 0.12) (tstamp c4ceea64-931b-408d-a3a0-740e6fd0564f))
+  (fp_line (start 6.22 -1.37) (end 6.22 1.37) (layer "F.SilkS") (width 0.12) (tstamp e867a188-80bc-41cc-80d7-c2d4ed203d84))
+  (fp_line (start 3.98278 0.7364) (end 1.02278 0.7364) (layer "F.CrtYd") (width 0.05) (tstamp 36489629-8b14-4bcb-8515-049417242dc9))
+  (fp_line (start 1.02278 0.7364) (end 1.02278 -0.7236) (layer "F.CrtYd") (width 0.05) (tstamp 49663f19-e767-4175-8b55-98c93e1eaa5a))
+  (fp_line (start 3.98278 -0.7236) (end 3.98278 0.7364) (layer "F.CrtYd") (width 0.05) (tstamp 4ef40a0b-bb2d-49d5-a51c-8b00ec91117d))
+  (fp_line (start 6.35 1.5) (end 6.35 -1.5) (layer "F.CrtYd") (width 0.05) (tstamp 6ce55f12-2c7c-4419-8af1-2939a241c460))
+  (fp_line (start -1.35 -1.5) (end -1.35 1.5) (layer "F.CrtYd") (width 0.05) (tstamp 6f83f681-7c44-4b0f-8474-d94804d8dc43))
+  (fp_line (start 6.35 -1.5) (end -1.35 -1.5) (layer "F.CrtYd") (width 0.05) (tstamp 77b9f782-da3d-43b3-859a-bffae9d0467c))
+  (fp_line (start 1.02278 -0.7236) (end 3.98278 -0.7236) (layer "F.CrtYd") (width 0.05) (tstamp f0d78122-89fc-4b8a-b21c-14257c6422b7))
+  (fp_line (start -1.35 1.5) (end 6.35 1.5) (layer "F.CrtYd") (width 0.05) (tstamp f29cbc0b-12ef-4f78-b164-e2063bc3d17b))
+  (fp_line (start 6.1 1.25) (end 6.1 -1.25) (layer "F.Fab") (width 0.1) (tstamp 1d7feb81-155e-4459-9fb0-f791c6fe1942))
+  (fp_line (start -1.1 -1.25) (end -1.1 1.25) (layer "F.Fab") (width 0.1) (tstamp 3f9322ca-82ce-439c-b961-59c0daa9439c))
+  (fp_line (start 3.30278 -0.3936) (end 3.30278 0.4064) (layer "F.Fab") (width 0.1) (tstamp 56e9047b-9b40-43f7-9065-83911a204d1e))
+  (fp_line (start 6.1 -1.25) (end -1.1 -1.25) (layer "F.Fab") (width 0.1) (tstamp b5f48007-5ee2-4c91-a9c8-253043578130))
+  (fp_line (start 1.70278 -0.3936) (end 3.30278 -0.3936) (layer "F.Fab") (width 0.1) (tstamp b96bb115-23be-4a47-a657-f1257d2aa803))
+  (fp_line (start 1.70278 0.4064) (end 1.70278 -0.3936) (layer "F.Fab") (width 0.1) (tstamp c6e7231a-c63c-4e23-9be0-23afc142515a))
+  (fp_line (start -1.1 1.25) (end 6.1 1.25) (layer "F.Fab") (width 0.1) (tstamp d2b27170-c38c-4461-a2be-b76f35a57bda))
+  (fp_line (start 3.30278 0.4064) (end 1.70278 0.4064) (layer "F.Fab") (width 0.1) (tstamp d62d2112-3874-4b2c-b7a2-bcc42bfbc14a))
+  (pad "1" smd roundrect (at 1.72778 0.0064) (size 0.9 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 0450b2d0-f44c-497f-b669-634cc99194d1))
+  (pad "1" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp a6a5df13-e0f4-4ec7-b0de-0382b9d0192a))
+  (pad "2" smd roundrect (at 3.27778 0.0064) (size 0.9 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 11034cd5-540c-488c-92ee-56efd228ab7f))
+  (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 40565cdd-b09a-47a4-9daf-f6ba4a1bd388))
+  (group "" (id f9606adc-34b3-40ee-82e8-a71e005e96c5)
+    (members
+      0450b2d0-f44c-497f-b669-634cc99194d1
+      0f4838d6-f02f-443b-acf9-48dffeea793f
+      11034cd5-540c-488c-92ee-56efd228ab7f
+      36489629-8b14-4bcb-8515-049417242dc9
+      49663f19-e767-4175-8b55-98c93e1eaa5a
+      4ef40a0b-bb2d-49d5-a51c-8b00ec91117d
+      56e9047b-9b40-43f7-9065-83911a204d1e
+      b96bb115-23be-4a47-a657-f1257d2aa803
+      c1fde5f6-5d2f-4b98-9579-961589a93cc8
+      c6e7231a-c63c-4e23-9be0-23afc142515a
+      d62d2112-3874-4b2c-b7a2-bcc42bfbc14a
+      f0d78122-89fc-4b8a-b21c-14257c6422b7
+    )
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
