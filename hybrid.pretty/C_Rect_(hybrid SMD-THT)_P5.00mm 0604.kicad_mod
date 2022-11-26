@@ -16,8 +16,6 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 003ac5a6-1f3d-45a2-8525-c42bdc5f3fac)
   )
-  (fp_line (start 1.72778 0.0064) (end 0 0) (layer "F.Cu") (width 0.2) (tstamp 4f6f92b4-21d3-47cd-be62-ad829533aed3))
-  (fp_line (start 3.27778 0.0064) (end 5 0) (layer "F.Cu") (width 0.2) (tstamp e65764f5-5e72-4c57-adef-0d8c3056cede))
   (fp_line (start 2.3622 0.5164) (end 2.64336 0.5164) (layer "F.SilkS") (width 0.12) (tstamp 0f4838d6-f02f-443b-acf9-48dffeea793f))
   (fp_line (start -1.22 -1.37) (end 6.22 -1.37) (layer "F.SilkS") (width 0.12) (tstamp 3f53228e-b025-45db-8166-04163f85259c))
   (fp_line (start -1.22 -1.37) (end -1.22 1.37) (layer "F.SilkS") (width 0.12) (tstamp 7b4701db-f253-4483-808d-210152ad2ebe))
@@ -41,8 +39,10 @@
   (fp_line (start -1.1 1.25) (end 6.1 1.25) (layer "F.Fab") (width 0.1) (tstamp d2b27170-c38c-4461-a2be-b76f35a57bda))
   (fp_line (start 3.30278 0.4064) (end 1.70278 0.4064) (layer "F.Fab") (width 0.1) (tstamp d62d2112-3874-4b2c-b7a2-bcc42bfbc14a))
   (pad "1" smd roundrect (at 1.72778 0.0064) (size 0.9 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 0450b2d0-f44c-497f-b669-634cc99194d1))
+  (pad "1" smd rect (at 0.960764 0) (size 1 0.2) (layers "F.Cu") (tstamp 9d48f9ef-eb79-48ac-a101-827d2f270883))
   (pad "1" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp a6a5df13-e0f4-4ec7-b0de-0382b9d0192a))
   (pad "2" smd roundrect (at 3.27778 0.0064) (size 0.9 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 11034cd5-540c-488c-92ee-56efd228ab7f))
+  (pad "2" smd rect (at 3.957964 0) (size 1 0.2) (layers "F.Cu") (tstamp 33ebceae-b0ef-43f2-9d11-7af10b3d8634))
   (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 40565cdd-b09a-47a4-9daf-f6ba4a1bd388))
   (group "" (id f9606adc-34b3-40ee-82e8-a71e005e96c5)
     (members
@@ -62,6 +62,11 @@
   )
   (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2.wrl"
     (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+    (offset (xyz 2.5 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
