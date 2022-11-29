@@ -1,0 +1,76 @@
+(footprint "C_Disc_(hybrid SMD-THT)_P5.00mm-0604" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 5AE50EF0)
+  (descr "C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=4.7*2.5mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
+  (tags "C Disc series Radial pin pitch 5.00mm  diameter 4.7mm width 2.5mm Capacitor")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 2.5 -2.5) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 8a29945a-0ecf-4424-acad-d9ded6a0319e)
+  )
+  (fp_text value "C_Disc_(hybrid SMD-THT)_P5.00mm" (at 2.5 2.5) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a9d8cea7-a648-41ee-8f65-bfbfbe8f7077)
+  )
+  (fp_text user "${REFERENCE}" (at 2.50278 -0.002) (layer "F.Fab")
+    (effects (font (size 0.4 0.4) (thickness 0.06)))
+    (tstamp 18abb1f0-e169-41e1-bf5a-b06a61ad10ef)
+  )
+  (fp_line (start 0.03 -1.37) (end 4.97 -1.37) (layer "F.SilkS") (width 0.12) (tstamp 172480d1-f398-43bd-b1ad-07c6fd97c654))
+  (fp_line (start 0.03 -1.37) (end 0.03 -1.055) (layer "F.SilkS") (width 0.12) (tstamp 1eae0855-ff8a-4712-b823-026e72751a30))
+  (fp_line (start 4.97 1.055) (end 4.97 1.37) (layer "F.SilkS") (width 0.12) (tstamp 771305bb-b508-4469-b96b-7eec5b29c37f))
+  (fp_line (start 4.97 -1.37) (end 4.97 -1.055) (layer "F.SilkS") (width 0.12) (tstamp 8084a5a4-27c4-4a29-bf35-74c62fadac09))
+  (fp_line (start 2.3622 -0.512) (end 2.64336 -0.512) (layer "F.SilkS") (width 0.12) (tstamp 89f86f92-3e3d-44e9-a8c0-3438ab2eab14))
+  (fp_line (start 0.03 1.37) (end 4.97 1.37) (layer "F.SilkS") (width 0.12) (tstamp a1c539be-8299-4855-bb87-38f278aaba19))
+  (fp_line (start 2.3622 0.508) (end 2.64336 0.508) (layer "F.SilkS") (width 0.12) (tstamp c12e8d27-dee8-4af9-9fce-8050fe0a4f5e))
+  (fp_line (start 0.03 1.055) (end 0.03 1.37) (layer "F.SilkS") (width 0.12) (tstamp ee09ef97-27db-4401-b809-5f5fddb1ed37))
+  (fp_line (start 1.02278 -0.732) (end 3.98278 -0.732) (layer "F.CrtYd") (width 0.05) (tstamp 63c1a461-9b48-4363-b48e-775f77401ee4))
+  (fp_line (start -1.05 -1.5) (end -1.05 1.5) (layer "F.CrtYd") (width 0.05) (tstamp 78156a4d-f5d4-47b5-b36a-8ab6ea758a77))
+  (fp_line (start 3.98278 0.728) (end 1.02278 0.728) (layer "F.CrtYd") (width 0.05) (tstamp 82a7d9ef-a9e5-4682-b366-752df2670f1d))
+  (fp_line (start 6.05 -1.5) (end -1.05 -1.5) (layer "F.CrtYd") (width 0.05) (tstamp 8402880d-6357-4db0-a235-b0365be0b29f))
+  (fp_line (start 1.02278 0.728) (end 1.02278 -0.732) (layer "F.CrtYd") (width 0.05) (tstamp a6461271-2070-4fb1-8dec-0f61670f9672))
+  (fp_line (start 3.98278 -0.732) (end 3.98278 0.728) (layer "F.CrtYd") (width 0.05) (tstamp abf84df9-931c-466c-8ab2-de64b6386dd0))
+  (fp_line (start 6.05 1.5) (end 6.05 -1.5) (layer "F.CrtYd") (width 0.05) (tstamp b90afc6a-30ae-412a-ba93-8ade9ecf22aa))
+  (fp_line (start -1.05 1.5) (end 6.05 1.5) (layer "F.CrtYd") (width 0.05) (tstamp d094f600-f11b-40ce-b8c4-6c1d458a96fa))
+  (fp_line (start 3.30278 -0.402) (end 3.30278 0.398) (layer "F.Fab") (width 0.1) (tstamp 1cc4e08d-54ab-465d-b679-2d32740ed7a0))
+  (fp_line (start 1.70278 0.398) (end 1.70278 -0.402) (layer "F.Fab") (width 0.1) (tstamp 2d92a9af-987f-414d-b4c6-4fb0cfeaad22))
+  (fp_line (start 1.70278 -0.402) (end 3.30278 -0.402) (layer "F.Fab") (width 0.1) (tstamp 43f0b4f0-bf95-49b6-aa6e-0871c82a1fcf))
+  (fp_line (start 4.85 -1.25) (end 0.15 -1.25) (layer "F.Fab") (width 0.1) (tstamp 5c04fe8c-9fa3-49fa-990a-05182da485aa))
+  (fp_line (start 0.15 -1.25) (end 0.15 1.25) (layer "F.Fab") (width 0.1) (tstamp 60db0a73-6809-476c-8516-dfd00030d546))
+  (fp_line (start 4.85 1.25) (end 4.85 -1.25) (layer "F.Fab") (width 0.1) (tstamp 6a91993f-bbcf-4018-9675-32544b488640))
+  (fp_line (start 3.30278 0.398) (end 1.70278 0.398) (layer "F.Fab") (width 0.1) (tstamp 7628c513-6086-454b-ab1e-e0a2338370f4))
+  (fp_line (start 0.15 1.25) (end 4.85 1.25) (layer "F.Fab") (width 0.1) (tstamp ddfe6022-2267-4e28-a133-f1fd9c1e5c69))
+  (pad "1" smd rect (at 0.9652 0) (size 1 0.2) (layers "F.Cu") (tstamp 4a5c8850-3164-4adf-a6e5-24311067bf4a))
+  (pad "1" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 5d2bb97b-b758-4ce7-bee7-ebf810b54e09))
+  (pad "1" smd roundrect (at 1.72778 -0.002) (size 0.9 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e3833c5b-f383-4e0a-ba3e-ee0a6b6de4ca))
+  (pad "2" smd roundrect (at 3.27778 -0.002) (size 0.9 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 132a2840-4b46-40e7-99db-517fd5b37c8b))
+  (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask) (tstamp 2aadeb9c-1e02-4a23-80c4-e9019bc2fbe9))
+  (pad "2" smd rect (at 3.9624 0) (size 1 0.2) (layers "F.Cu") (tstamp dcd6ff00-aec5-49bd-8348-3525684a1ebc))
+  (group "" (id dd3cad93-e57c-4719-aa91-c4e4ec6b8b01)
+    (members
+      132a2840-4b46-40e7-99db-517fd5b37c8b
+      18abb1f0-e169-41e1-bf5a-b06a61ad10ef
+      1cc4e08d-54ab-465d-b679-2d32740ed7a0
+      2d92a9af-987f-414d-b4c6-4fb0cfeaad22
+      43f0b4f0-bf95-49b6-aa6e-0871c82a1fcf
+      63c1a461-9b48-4363-b48e-775f77401ee4
+      7628c513-6086-454b-ab1e-e0a2338370f4
+      82a7d9ef-a9e5-4682-b366-752df2670f1d
+      89f86f92-3e3d-44e9-a8c0-3438ab2eab14
+      a6461271-2070-4fb1-8dec-0f61670f9672
+      abf84df9-931c-466c-8ab2-de64b6386dd0
+      c12e8d27-dee8-4af9-9fce-8050fe0a4f5e
+      e3833c5b-f383-4e0a-ba3e-ee0a6b6de4ca
+    )
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+    (offset (xyz 2.5 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "hybrid")(type "KiCad")(uri "${KIPRJMOD}/hybrid.pretty")(options "")(descr ""))
-)
