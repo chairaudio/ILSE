@@ -32286,6 +32286,9 @@
       )
     )
   )
+  (gr_text "JLCJLCJLCJLC" (at 77.342 136.83) (layer "F.SilkS") (tstamp 24ef5a6a-224f-4df2-9af7-676d72dc58c7)
+    (effects (font (size 0.81 0.81) (thickness 0.151) bold) (justify left bottom))
+  )
   (gr_text "Cutoff" (at 128.842 57.58) (layer "F.SilkS") (tstamp 2a405417-ff79-41b3-8019-e3a5438baeb9)
     (effects (font (face "Work Sans") (size 1.5 1.5) (thickness 0.25)) (justify left))
     (render_cache "Cutoff" 0
