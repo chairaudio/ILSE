@@ -39,12 +39,12 @@
 
   (setup
     (stackup
-      (layer "F.SilkS" (type "Top Silk Screen") (color "White") (material "Direct Printing"))
+      (layer "F.SilkS" (type "Top Silk Screen") (color "White") (color "White") (material "Direct Printing"))
       (layer "F.Paste" (type "Top Solder Paste"))
-      (layer "F.Mask" (type "Top Solder Mask") (color "Black") (thickness 0.01) (material "Dry Film") (epsilon_r 3.3) (loss_tangent 0))
+      (layer "F.Mask" (type "Top Solder Mask") (color "Black") (color "Black") (thickness 0.01) (material "Dry Film") (epsilon_r 3.3) (loss_tangent 0))
       (layer "F.Cu" (type "copper") (thickness 0.035))
-      (layer "dielectric 1" (type "core") (color "PTFE natural") (thickness 0.01) (material "PTFE") (epsilon_r 2.1) (loss_tangent 0.0002)
-        addsublayer (thickness 1.5) (material "Al") (epsilon_r 8.7) (loss_tangent 0.001))
+      (layer "dielectric 1" (type "prepreg") (color "PTFE natural") (color "PTFE natural") (thickness 0.01) (material "Ceramic") (epsilon_r 1) (loss_tangent 0)
+        addsublayer (color "Aluminum") (thickness 1.5) (material "Al") (epsilon_r 8.7) (loss_tangent 0.001))
       (layer "B.Cu" (type "copper") (thickness 0.035))
       (layer "B.Mask" (type "Bottom Solder Mask") (thickness 0.01))
       (layer "B.Paste" (type "Bottom Solder Paste"))
