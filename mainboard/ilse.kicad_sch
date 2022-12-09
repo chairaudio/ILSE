@@ -3308,7 +3308,7 @@
     (property "Value" "LED Superbright" (id 1) (at 88.9 190.5 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "LED_THT:LED_D3.0mm" (id 2) (at 95.25 182.88 0)
+    (property "Footprint" "CHAIR:LED_D3.0mm" (id 2) (at 95.25 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 95.25 182.88 0)
@@ -4997,7 +4997,7 @@
     (property "Value" "LED Superbright" (id 1) (at 262.0518 29.2608 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "LED_THT:LED_D3.0mm" (id 2) (at 259.08 27.94 0)
+    (property "Footprint" "CHAIR:LED_D3.0mm" (id 2) (at 259.08 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 259.08 27.94 0)
@@ -6360,10 +6360,10 @@
       (reference "C13") (unit 1) (value "10u") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
     )
     (path "/00000000-0000-0000-0000-00005da2777a"
-      (reference "D1") (unit 1) (value "LED Superbright") (footprint "LED_THT:LED_D3.0mm")
+      (reference "D1") (unit 1) (value "LED Superbright") (footprint "CHAIR:LED_D3.0mm")
     )
     (path "/00000000-0000-0000-0000-00005dbcfb95"
-      (reference "D2") (unit 1) (value "LED Superbright") (footprint "LED_THT:LED_D3.0mm")
+      (reference "D2") (unit 1) (value "LED Superbright") (footprint "CHAIR:LED_D3.0mm")
     )
     (path "/0a3fe994-abb3-4b30-9458-a2eb4da38b53"
       (reference "D3") (unit 1) (value "1N5819") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
