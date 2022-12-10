@@ -37,7 +37,7 @@ It features a simple voltage controllable low pass filter that you can modulate 
 
 Ilse was designed for educational use and was used in an introduction to electronics course. For more details on the schematics see the [course material](https://www.uni-weimar.de/kunst-und-gestaltung/wiki/IFD:Analog_Circuits_and_Interfaces_WS20_21/introduction_to_electronics).
 
-Here you can find the [schematic](ilse.pdf) and [build instructions](https://discourse.chair.audio/t/ilse-build-instructions).  
+Here you can find the [schematic](ilse.pdf) and [build instructions](https://discourse.chair.audio/t/ilse-build-instructions). The [iBOM](https://chairaudio.github.io/ILSE/) will help you assemble the kit.
 
 
 
