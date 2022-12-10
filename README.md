@@ -1,6 +1,6 @@
 # ILSE. An Analog Monophonic Synthesizer Module for Education
 
-<img src="ilse.png">
+![Schematic](ilse.svg)
 
 
 
@@ -41,6 +41,10 @@ Here you can find the [schematic](ilse.pdf) and [build instructions](https://dis
 
 
 
-<img src="3d_viewer.jpg" width="400" >
+![KiCad 3d view](3d_viewer.jpg)
 
+![KiCad 3d view](ilse2.png)
 
+![KiCad 3d view](ilse3.png)
+
+![KiCad 3d view](ilse4.png)
