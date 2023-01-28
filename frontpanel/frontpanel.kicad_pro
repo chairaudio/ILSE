@@ -413,7 +413,7 @@
   "net_settings": {
     "classes": [
       {
-        "bus_width": 12,
+        "bus_width": 12.0,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
@@ -427,11 +427,11 @@
         "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6
+        "wire_width": 6.0
       }
     ],
     "meta": {
-      "version": 3
+      "version": 2
     },
     "net_colors": null,
     "netclass_assignments": null,
