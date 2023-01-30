@@ -348,7 +348,9 @@
       "Bela",
       "CHAIR"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "CHAIR"
+    ]
   },
   "meta": {
     "filename": "ilse.kicad_pro",
