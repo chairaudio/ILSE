@@ -6983,7 +6983,7 @@
     (property "Reference" "R37" (at 214.63 109.855 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1k" (at 215.9 112.395 90)
+    (property "Value" "10k" (at 215.9 112.395 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Befaco_Footprints:R_Axial_L3.0mm_D2.0mm_P5.00mm_Horizontal" (at 217.17 108.077 90)
