@@ -8067,7 +8067,7 @@
     (property "Reference" "C14" (at 197.485 121.8184 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "47p" (at 197.485 124.1298 90)
+    (property "Value" "22p" (at 197.485 124.1298 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Befaco_Footprints:C_Disc_D4.0mm_W2.8mm_P5.00mm" (at 197.485 127.635 0)
