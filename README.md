@@ -14,6 +14,7 @@ If you want to see the revision 1 of ILSE (as a reference if you have a REV 1 la
 If you want to see the revision 2 of ILSE (as a reference if you have a REV 2 layout) make sure to check out the rev2 tag with `git checkout tags/rev2`
 
 ## Features
+10 HP Eurorack module
 
 Components: 
 
