@@ -45,7 +45,7 @@ Ilse was designed for educational use and was used in an introduction to electro
 
 ## Kit building
 
-Here you can find the [schematic](ilse.pdf) and [build instructions](https://discourse.chair.audio/t/ilse-build-instructions). The [iBOM](https://chairaudio.github.io/ILSE/REV2.html) will help you assemble the kit.
+Here you can find the [schematic](ilse.pdf) and [build instructions](https://discourse.chair.audio/t/ilse-build-instructions). The [iBOM](https://chairaudio.github.io/ILSE/REV4.html) will help you assemble the kit.
 
 
 
