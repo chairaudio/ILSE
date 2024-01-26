@@ -1,4 +1,4 @@
-# ILSE. An Analog Monophonic Synthesizer Module for Education
+# ILSE. An Analog Monophonic Synthesizer Module
 
 ![Schematic](ilse.svg)
 
@@ -7,8 +7,13 @@
 Ilse is designed as a low cost, easy to build, but still flexible and feature rich synthesizer. 
 It is based on Syntherjacks single-chip synthesizer [Totoro](https://syntherjack.net/totoro-1-ic-simple-synth/) and extends the design for voltage control on filter, oscillators and LFO.
 
-If you want to see the revision 1 of ILSE as a reference if you have a rev1 layout, make sure to check out the rev1 tag with `git checkout tags/rev1`
 
+## History
+If you want to see the revision 1 of ILSE (as a reference if you have a REV 1 layout) make sure to check out the rev1 tag with `git checkout tags/rev1`
+
+If you want to see the revision 2 of ILSE (as a reference if you have a REV 2 layout) make sure to check out the rev2 tag with `git checkout tags/rev2`
+
+## Features
 
 Components: 
 
@@ -37,7 +42,9 @@ It features a simple voltage controllable low pass filter that you can modulate 
 
 Ilse was designed for educational use and was used in an introduction to electronics course. For more details on the schematics see the [course material](https://www.uni-weimar.de/kunst-und-gestaltung/wiki/IFD:Analog_Circuits_and_Interfaces_WS20_21/introduction_to_electronics).
 
-Here you can find the [schematic](ilse.pdf) and [build instructions](https://discourse.chair.audio/t/ilse-build-instructions). The [iBOM](https://chairaudio.github.io/ILSE/) will help you assemble the kit.
+## Kit building
+
+Here you can find the [schematic](ilse.pdf) and [build instructions](https://discourse.chair.audio/t/ilse-build-instructions). The [iBOM](https://chairaudio.github.io/ILSE/REV2.html) will help you assemble the kit.
 
 
 

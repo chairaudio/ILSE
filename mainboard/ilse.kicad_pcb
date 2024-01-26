@@ -2682,10 +2682,10 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${BEFACO_3DMODEL_DIR}/knob_miniature.step"
-      (offset (xyz 2.5 7.5 17.5))
+    (model "${BEFACO_3DMODEL_DIR}/knob_medium.step"
+      (offset (xyz 2.5 -39 15.5))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 0 -90))
     )
   )
 
@@ -5267,7 +5267,7 @@
     (property "ki_description" "Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14")
     (property "ki_keywords" "quad opamp")
     (property "manf#" "TL074CN")
-    (path "/00000000-0000-0000-0000-00005dbf4be3")
+    (path "/00000000-0000-0000-0000-00005dbd6a49")
     (attr through_hole)
     (fp_text reference "U2" (at 4.013777 -18.400023) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
@@ -9234,7 +9234,7 @@
     (property "ki_description" "Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14")
     (property "ki_keywords" "quad opamp")
     (property "manf#" "TL074CN")
-    (path "/00000000-0000-0000-0000-00005dbe9dc6")
+    (path "/00000000-0000-0000-0000-00005dbd4258")
     (attr through_hole)
     (fp_text reference "U1" (at 3.67787 -18.356038) (layer "B.SilkS")
         (effects (font (size 1 1) (thickness 0.1)) (justify mirror))
