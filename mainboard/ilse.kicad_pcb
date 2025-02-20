@@ -3210,7 +3210,7 @@
       (net 3 "Net-(D4-K)") (pinfunction "K") (pintype "passive") (tstamp c3e59c1b-f460-43db-a2f6-ba5c8a567905))
     (pad "2" thru_hole circle (at 2.54 0 270) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask")
       (net 4 "VCC") (pinfunction "A") (pintype "passive") (tstamp 402b0cfb-bc9e-4f78-961d-522a1f67d90f))
-    (model "${KICAD7_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_FlatTop.wrl"
+    (model "${KICAD8_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_FlatTop.wrl"
       (offset (xyz 0 0 2))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4354,7 +4354,7 @@
       (net 17 "Net-(D3-K)") (pinfunction "K") (pintype "passive") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp 1f1768c2-d33f-445c-ba38-442e2f1a7c1d))
     (pad "2" thru_hole oval (at 7.62 0 180) (size 2.4 1.33) (drill 1) (layers "*.Cu" "*.Mask")
       (net 2 "GND") (pinfunction "A") (pintype "passive") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp d22afc2f-cc04-4699-bb12-4caf3e84a257))
-    (model ":KICAD7_3DMODEL_DIR:Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4455,7 +4455,7 @@
       (net 5 "VSS") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 00e7499e-9d9a-468b-a287-504b2d0cccfb))
     (pad "2" thru_hole circle (at 5 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 36 "Net-(R6-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 26e4a278-eed8-4fe7-bb05-760ad46728bd))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4528,7 +4528,7 @@
       (net 4 "VCC") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 63d0b955-1607-4c43-ab4a-78f9f8192682))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 5 "VSS") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 403992dd-4998-4ef7-aa38-02187895ce36))
-    (model ":KICAD7_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
+    (model ":KICAD8_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4629,7 +4629,7 @@
       (net 41 "Net-(U1B-+)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 347222d8-00ae-4725-8a1d-4e88319e48c2))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 1 "Net-(C5-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 200d5941-8148-42bd-87b6-55705dd00c13))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4730,7 +4730,7 @@
       (net 58 "Net-(Q6-E)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 647c5562-1764-47df-b169-656d10a1902b))
     (pad "2" thru_hole circle (at 5 0 225) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 2 "GND") (pintype "passive") (solder_mask_margin 0.0508) (tstamp b6d58b14-d74a-484b-82cc-544179714692))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4831,7 +4831,7 @@
       (net 46 "Net-(R21-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 35d8d4f3-202d-40c7-b9f2-e60d23ec580c))
     (pad "2" thru_hole circle (at 5 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 23 "LFO Speed") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 1a83dfff-3aab-4355-a38f-151b82b2354b))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4898,7 +4898,7 @@
       (net 32 "Net-(Q5-B)") (pinfunction "B") (pintype "passive") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp cc7a8a21-5d2d-463e-a45b-b9245a3e723a))
     (pad "3" thru_hole oval (at 5.08 0 90) (size 2.2 1.1) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 25 "Net-(Q5-C)") (pinfunction "C") (pintype "passive") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp 8781a5ec-e62c-448b-b71f-5a2db987183b))
-    (model ":KICAD7_3DMODEL_DIR:Package_TO_SOT_THT.3dshapes/TO-92_Inline_Wide.step"
+    (model ":KICAD8_3DMODEL_DIR:Package_TO_SOT_THT.3dshapes/TO-92_Inline_Wide.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -4999,7 +4999,7 @@
       (net 44 "Net-(R20-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 557a1de7-54a8-493c-b123-b28d94350c91))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 1 "Net-(C5-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 6e1f7aff-0aba-436c-8122-6c37323898f3))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5184,7 +5184,7 @@
       (net 59 "Net-(JP1-A)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 77ed272e-1ea8-4beb-a9db-6cff89445fd7))
     (pad "2" thru_hole circle (at 5 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 20 "GATE") (pintype "passive") (solder_mask_margin 0.0508) (tstamp b3507f6d-233b-4497-9a4b-b31a4e5a5d58))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5291,7 +5291,7 @@
       (net 11 "LFO") (pinfunction "-") (pintype "input") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp 0be475e4-682e-412b-9572-6b516e4c9cd0))
     (pad "14" thru_hole oval (at 7.62 0 180) (size 2.6416 1.3208) (drill 0.8128) (layers "*.Cu" "*.Mask")
       (net 50 "Net-(R32-Pad1)") (pintype "output") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp ad56a44b-d13b-4282-a378-2e1a6068e3f9))
-    (model "${KICAD7_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-14_W7.62mm.step"
+    (model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-14_W7.62mm.step"
       (offset (xyz 0 0 4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5348,7 +5348,7 @@
       (net 55 "Net-(FB2-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 76ef3e0d-9cec-430c-adf1-925db560256b))
     (pad "2" thru_hole circle (at 5.08 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 16 "Net-(D2-K)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp edecbe6e-3f8c-4267-a38b-0cf132cb8024))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5411,7 +5411,7 @@
       (net 43 "Net-(R18-Pad2)") (pinfunction "2") (pintype "passive") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp 1c550af5-42bc-4f29-9b15-5315e23efa22))
     (pad "3" thru_hole oval (at -5.08 0 180) (size 1.1 2.2) (drill 0.6) (layers "*.Cu" "*.Mask")
       (net 39 "Net-(U2A--)") (pinfunction "3") (pintype "passive") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp 6b54ed48-111d-4e92-a67a-f013bc610ec9))
-    (model ":KICAD7_3DMODEL_DIR:Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.step"
+    (model ":KICAD8_3DMODEL_DIR:Potentiometer_THT.3dshapes/Potentiometer_Bourns_3296W_Vertical.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5512,7 +5512,7 @@
       (net 24 "Osc 2 Detune") (pintype "passive") (solder_mask_margin 0.0508) (tstamp f58c9511-5cd0-4149-acca-10ce28aaeeed))
     (pad "2" thru_hole circle (at 5 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 4 "VCC") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 28b97b3f-1c04-4d1c-b64c-c59d61ae29bb))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5613,7 +5613,7 @@
       (net 27 "Net-(Q2-B)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 52b7ff6e-8763-4935-9a65-78945671f639))
     (pad "2" thru_hole circle (at 5 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 37 "Net-(R8-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 11366e0d-2571-4ca7-825f-a3954c2ba547))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5662,7 +5662,7 @@
       (net 8 "Net-(Q3-E)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 3a1cf314-8a25-4efa-b0ec-fd48de9a765f))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 1 "Net-(C5-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 40e657c6-d441-49b9-ac44-1b34707d3ecd))
-    (model ":KICAD7_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2.step"
+    (model ":KICAD8_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5763,7 +5763,7 @@
       (net 34 "Net-(R1-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 7d8e0bd0-8274-4452-a9e5-4116402b816d))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 4 "VCC") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 1c8e26e3-15e5-4cc1-8b99-8235832430a3))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5864,7 +5864,7 @@
       (net 28 "Net-(Q3-C)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 62a482d6-c348-405f-830c-563b67db0d51))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 41 "Net-(U1B-+)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp a17ea595-33f2-419b-b6d3-f0991c85819e))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5913,7 +5913,7 @@
       (net 4 "VCC") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 0d04b185-fbcc-4e02-a2c6-cd995e142c0f))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 5 "VSS") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 0648866c-a23e-4c2d-b613-f97c3402a0c1))
-    (model ":KICAD7_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Rect_L7.0mm_W4.5mm_P5.00mm.step"
+    (model ":KICAD8_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Rect_L7.0mm_W4.5mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -5962,7 +5962,7 @@
       (net 15 "Net-(C11-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp a3a97d7d-2103-4918-b4c2-9148d8be3bbf))
     (pad "2" thru_hole circle (at 5 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 13 "Net-(C13-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 4cab582f-d38c-49ef-bca9-a55d34e229f3))
-    (model ":KICAD7_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Rect_L7.0mm_W4.5mm_P5.00mm.step"
+    (model ":KICAD8_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Rect_L7.0mm_W4.5mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6029,7 +6029,7 @@
       (net 29 "Net-(Q3-B)") (pinfunction "B") (pintype "input") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp fa957d64-456d-486a-bfab-b4f26a2c2fb6))
     (pad "3" thru_hole oval (at 5.08 0 270) (size 2.2 1.1) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 28 "Net-(Q3-C)") (pinfunction "C") (pintype "passive") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp aed7b80a-bc32-4817-aa8f-78b40ffd598b))
-    (model ":KICAD7_3DMODEL_DIR:Package_TO_SOT_THT.3dshapes/TO-92_Inline_Wide.step"
+    (model ":KICAD8_3DMODEL_DIR:Package_TO_SOT_THT.3dshapes/TO-92_Inline_Wide.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6130,7 +6130,7 @@
       (net 12 "Net-(U2B--)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 9dc69b4e-cb34-4928-9f11-6f202468bd90))
     (pad "2" thru_hole circle (at 5 0 45) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 44 "Net-(R20-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp a172fbc7-fd34-4ad0-bd64-b1ce27f4ab72))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6254,7 +6254,7 @@
       (net 4 "VCC") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 4017cda0-1f3a-46c9-8771-75d847ba8033))
     (pad "2" thru_hole circle (at 1.777288 -0.009633) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask")
       (net 2 "GND") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 52db03a7-029f-4506-8fd0-f0d5622f85d1))
-    (model ":KICAD7_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Radial_D4.0mm_H5.0mm_P1.50mm.step"
+    (model ":KICAD8_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Radial_D4.0mm_H5.0mm_P1.50mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6355,7 +6355,7 @@
       (net 45 "Net-(R18-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp cca6809b-8049-4e1b-865e-7decd877d325))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 43 "Net-(R18-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp f82f7c7e-a847-44df-b1de-c7c9ae4cf186))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6456,7 +6456,7 @@
       (net 57 "Net-(J7-Pin_5)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp e826f19f-f877-4b3e-a049-6142b34e405d))
     (pad "2" thru_hole circle (at 5 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 11 "LFO") (pintype "passive") (solder_mask_margin 0.0508) (tstamp a7fa54ee-3c64-4d09-980a-96bca9b6ba06))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6557,7 +6557,7 @@
       (net 50 "Net-(R32-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp f77872fd-7cfb-415b-8d64-559b6199a10d))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 17 "Net-(D3-K)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 9339d275-1b63-44cb-bc78-eb15cc5ddc17))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6658,7 +6658,7 @@
       (net 56 "Net-(R42-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp b13701f0-981f-4c1c-8bd3-b357571d5c0a))
     (pad "2" thru_hole circle (at 5 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 2 "GND") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 5c997b56-c2dc-408c-a33f-779bcce624c4))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6782,7 +6782,7 @@
       (net 2 "GND") (pintype "passive") (solder_mask_margin 0.0508) (tstamp b7d3f65a-1591-4a6f-9d0e-f779caf47132))
     (pad "2" thru_hole circle (at 1.777288 -0.009633) (size 1.4 1.4) (drill 0.7) (layers "*.Cu" "*.Mask")
       (net 5 "VSS") (pintype "passive") (solder_mask_margin 0.0508) (tstamp c6d9608d-dc33-4fe5-9597-7dfe8767d728))
-    (model ":KICAD7_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Radial_D4.0mm_H5.0mm_P1.50mm.step"
+    (model ":KICAD8_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Radial_D4.0mm_H5.0mm_P1.50mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6849,7 +6849,7 @@
       (net 27 "Net-(Q2-B)") (pinfunction "B") (pintype "input") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp e4cc6204-864a-4db2-9ffb-a84f509377f5))
     (pad "3" thru_hole oval (at 5.08 0 270) (size 2.2 1.1) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 26 "Net-(Q2-C)") (pinfunction "C") (pintype "passive") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp c1070bed-6c60-47b6-9e26-9adcca218ebc))
-    (model ":KICAD7_3DMODEL_DIR:Package_TO_SOT_THT.3dshapes/TO-92_Inline_Wide.step"
+    (model ":KICAD8_3DMODEL_DIR:Package_TO_SOT_THT.3dshapes/TO-92_Inline_Wide.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -6950,7 +6950,7 @@
       (net 12 "Net-(U2B--)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp c75b47ae-1092-4930-976c-5aca20ff5908))
     (pad "2" thru_hole circle (at 5 0 45) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 49 "Net-(R23-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 2a796000-f091-4288-9d68-20de00368500))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7051,7 +7051,7 @@
       (net 39 "Net-(U2A--)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 7a3542ca-7b62-4945-a1a8-85cbbbc18e80))
     (pad "2" thru_hole circle (at 5 0 45) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 30 "Net-(Q1-E)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 0eb1af99-c813-41cb-a4d0-51cdc674f57c))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7103,7 +7103,7 @@
       (net 54 "Net-(FB1-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 51489853-baef-4135-97bf-5f8489d0700f))
     (pad "2" thru_hole circle (at 5.08 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 14 "Net-(D1-A)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 7609e763-5422-487f-9ae7-817adac2dc38))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7152,7 +7152,7 @@
       (net 6 "Net-(Q2-E)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 779db424-359e-4041-a2a7-f7a4196cc953))
     (pad "2" thru_hole circle (at 5 0 135) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 7 "Net-(C6-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 721c37ba-2dc7-490c-90b0-57d61906992d))
-    (model ":KICAD7_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2.step"
+    (model ":KICAD8_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7253,7 +7253,7 @@
       (net 39 "Net-(U2A--)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 4fa9c9a0-9e47-402e-81d8-9864a96ca8fb))
     (pad "2" thru_hole circle (at 5 0 45) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 40 "Net-(R13-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 3c90ca2d-83ef-4f4c-a89a-b0b69ed76716))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7326,7 +7326,7 @@
       (net 10 "Net-(U2C--)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 2c746be8-3b1d-4e53-a80a-a28413689bd1))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 11 "LFO") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 18b46e8b-e2a0-4f60-889f-928747209f6c))
-    (model ":KICAD7_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
+    (model ":KICAD8_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7547,7 +7547,7 @@
       (net 53 "Net-(R38-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 4bbce137-21db-4d71-8059-bb22005edf4e))
     (pad "2" thru_hole circle (at 5 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 13 "Net-(C13-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 59ce344f-d8bf-4d82-98e0-e84a66299bf9))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7648,7 +7648,7 @@
       (net 59 "Net-(JP1-A)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 4139a725-e76e-44c0-bee8-5f1337d5ae51))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 2 "GND") (pintype "passive") (solder_mask_margin 0.0508) (tstamp ae87c46c-65de-4e0d-a132-3602037b100b))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7721,7 +7721,7 @@
       (net 9 "Net-(C12-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 5fc91e9f-fda9-4a93-8a08-3c27097a44bf))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 15 "Net-(C11-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 32837061-0be7-4ec4-a3b8-5af891fb2eac))
-    (model ":KICAD7_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
+    (model ":KICAD8_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7822,7 +7822,7 @@
       (net 49 "Net-(R23-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp a1742556-ebfa-4d54-bd1f-566ab881d8c7))
     (pad "2" thru_hole circle (at 5 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 18 "Net-(J2-PadT)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 6c6710aa-6714-4a0f-b584-dee279a9cbe0))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7923,7 +7923,7 @@
       (net 52 "Net-(R36-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 5ea30da1-f703-4815-9f51-4733aac465eb))
     (pad "2" thru_hole circle (at 5 0 45) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 32 "Net-(Q5-B)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp c35d7eb7-f19a-46cc-b23e-c070bcf74561))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8024,7 +8024,7 @@
       (net 27 "Net-(Q2-B)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp c62c2a09-3d83-436f-b9da-104fc5765842))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 45 "Net-(R18-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp aa55676d-dad5-4fa5-8997-03a71c01474e))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8125,7 +8125,7 @@
       (net 42 "Net-(U1C-+)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp a5eb3b06-5364-40ac-ad8b-1044f5d347ac))
     (pad "2" thru_hole circle (at 5 0 135) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 7 "Net-(C6-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp a727bee2-ee31-4439-8f27-241b3537d204))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8226,7 +8226,7 @@
       (net 2 "GND") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 604df8d6-10ae-4f5b-9699-d517b0bae015))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 48 "Net-(U2C-+)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp c7b6305f-b235-4690-a537-51d6f98512e8))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8327,7 +8327,7 @@
       (net 46 "Net-(R21-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp b5115553-0850-42cb-b39e-90b300d09382))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 47 "Net-(R22-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 0c44121f-dfc1-4c4b-992d-b41196667b3c))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8400,7 +8400,7 @@
       (net 12 "Net-(U2B--)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp ef3b72a2-833c-44a3-8ccf-2a399d884256))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 25 "Net-(Q5-C)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 3ef17660-36da-4a53-83a6-c68f7d89ea00))
-    (model ":KICAD7_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
+    (model ":KICAD8_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8502,7 +8502,7 @@
       (net 4 "VCC") (pinfunction "K") (pintype "passive") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp 9a3a1aa4-4c83-4668-8eb9-55ab3d3624b6))
     (pad "2" thru_hole oval (at 7.62 0 90) (size 2.4 1.33) (drill 1) (layers "*.Cu" "*.Mask")
       (net 14 "Net-(D1-A)") (pinfunction "A") (pintype "passive") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp dbf4b41f-5b98-4945-a695-2906083afd5f))
-    (model ":KICAD7_3DMODEL_DIR:Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8569,7 +8569,7 @@
       (net 59 "Net-(JP1-A)") (pinfunction "B") (pintype "input") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp 326b776b-b492-4749-8a2e-366744565cf9))
     (pad "3" thru_hole oval (at 5.08 0 90) (size 2.2 1.1) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 5 "VSS") (pinfunction "C") (pintype "passive") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp 8a54cdd4-0a3c-4444-b219-940a56824883))
-    (model ":KICAD7_3DMODEL_DIR:Package_TO_SOT_THT.3dshapes/TO-92_Inline_Wide.step"
+    (model ":KICAD8_3DMODEL_DIR:Package_TO_SOT_THT.3dshapes/TO-92_Inline_Wide.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8670,7 +8670,7 @@
       (net 5 "VSS") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 0abd520e-ec7e-47a4-a587-1c2dae3e5588))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 35 "Net-(R2-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 21faec6f-7004-4947-bec6-aeaa7eca9159))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8771,7 +8771,7 @@
       (net 15 "Net-(C11-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp e3d3ff69-80ee-40e0-8a72-5dbd8de3b73f))
     (pad "2" thru_hole circle (at 5 0 45) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 12 "Net-(U2B--)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 64697e3b-5105-4baa-b1c3-2326ed5648c6))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9084,7 +9084,7 @@
       (net 11 "LFO") (pinfunction "B") (pintype "passive") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp a76045c2-6842-4155-8722-1376ff81f1bd))
     (pad "3" thru_hole oval (at 5.08 0) (size 2.2 1.1) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 3 "Net-(D4-K)") (pinfunction "C") (pintype "passive") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp 92028ca0-b709-4fa9-bedd-8f5810f8c8b1))
-    (model ":KICAD7_3DMODEL_DIR:Package_TO_SOT_THT.3dshapes/TO-92_Inline_Wide.step"
+    (model ":KICAD8_3DMODEL_DIR:Package_TO_SOT_THT.3dshapes/TO-92_Inline_Wide.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9151,7 +9151,7 @@
       (net 31 "Net-(Q4-B)") (pinfunction "B") (pintype "passive") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp 88cdc4bb-c808-43f1-b4c2-d87d0c99cd64))
     (pad "3" thru_hole oval (at 5.08 0 90) (size 2.2 1.1) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 33 "Net-(Q4-C)") (pinfunction "C") (pintype "passive") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp 35ab261f-ca0d-44c2-b98e-f123fc02e124))
-    (model ":KICAD7_3DMODEL_DIR:Package_TO_SOT_THT.3dshapes/TO-92_Inline_Wide.step"
+    (model ":KICAD8_3DMODEL_DIR:Package_TO_SOT_THT.3dshapes/TO-92_Inline_Wide.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9258,7 +9258,7 @@
       (net 6 "Net-(Q2-E)") (pinfunction "-") (pintype "input") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp 8ee71363-8e4f-4045-99a6-1879bb99a84d))
     (pad "14" thru_hole oval (at 7.62 0 180) (size 2.6416 1.3208) (drill 0.8128) (layers "*.Cu" "*.Mask")
       (net 7 "Net-(C6-Pad2)") (pintype "output") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp e5bb652c-f7d3-419e-ab4d-651ad1b5c66d))
-    (model "${KICAD7_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-14_W7.62mm.step"
+    (model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-14_W7.62mm.step"
       (offset (xyz 0 0 4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9365,7 +9365,7 @@
       (net 16 "Net-(D2-K)") (pinfunction "K") (pintype "passive") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp 7da34b4f-1657-4f33-b861-944972f6926c))
     (pad "2" thru_hole oval (at 7.62 0 270) (size 2.4 1.33) (drill 1) (layers "*.Cu" "*.Mask")
       (net 5 "VSS") (pinfunction "A") (pintype "passive") (solder_mask_margin 0.0508) (thermal_bridge_angle 45) (tstamp 3539a6e5-2f1b-4cec-bcc3-8ce89b1d9f2e))
-    (model ":KICAD7_3DMODEL_DIR:Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9438,7 +9438,7 @@
       (net 12 "Net-(U2B--)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 0b704aaf-a576-4c8b-a59d-cec446289eb7))
     (pad "2" thru_hole circle (at 5 0 225) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 15 "Net-(C11-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 9af5e57d-bc99-454c-8926-6f29b1e1d0b1))
-    (model ":KICAD7_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
+    (model ":KICAD8_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9539,7 +9539,7 @@
       (net 17 "Net-(D3-K)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 6178983b-2df5-4127-868e-2de341daa440))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 2 "GND") (pintype "passive") (solder_mask_margin 0.0508) (tstamp f0af2273-82ba-41d1-a3af-4afec2fab100))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9640,7 +9640,7 @@
       (net 51 "Net-(R35-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 829c7f8f-3aae-43da-9ce7-e3688ccb7ee0))
     (pad "2" thru_hole circle (at 5 0 315) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 32 "Net-(Q5-B)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 2e1e0e67-ff37-4868-a9c5-ee70a7b93df7))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9689,7 +9689,7 @@
       (net 4 "VCC") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 38cf28f3-81dd-4672-842c-9d712146ae40))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 5 "VSS") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 15ba0915-845b-4a49-82c1-484bf59c039a))
-    (model ":KICAD7_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Rect_L7.0mm_W4.5mm_P5.00mm.step"
+    (model ":KICAD8_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Rect_L7.0mm_W4.5mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9790,7 +9790,7 @@
       (net 26 "Net-(Q2-C)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp ba673b37-e460-4331-8de2-aa9841b096a6))
     (pad "2" thru_hole circle (at 5 0 135) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 42 "Net-(U1C-+)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp d09b49c8-0641-41c8-ae5c-bae1196df78d))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9893,7 +9893,7 @@
       (net 2 "GND") (pintype "passive") (solder_mask_margin 0.0508) (tstamp a225d481-d854-41c1-ba31-2ede2b7a2847))
     (pad "2" thru_hole circle (at 5 0 270) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 53 "Net-(R38-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 7064c46e-b963-490d-a0f6-2d0da9a5cbf1))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9994,7 +9994,7 @@
       (net 50 "Net-(R32-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 3d41f126-fb79-45ec-9a15-69feec02355d))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 31 "Net-(Q4-B)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 9ddf6d69-79fd-426a-a375-a39e516bd4b2))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10095,7 +10095,7 @@
       (net 39 "Net-(U2A--)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 2e3c58c9-226e-46fe-bec5-077054f5fa1d))
     (pad "2" thru_hole circle (at 5 0 45) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 19 "1V{slash}Oct") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 2ffccf29-fcc1-462a-b209-938ba6c28871))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10196,7 +10196,7 @@
       (net 39 "Net-(U2A--)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 2128e32d-d2b0-400d-a0a9-ccaadd9bf8f3))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 38 "Net-(R12-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp cd8273ca-0ab4-47be-b5ec-a0688bc08876))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10297,7 +10297,7 @@
       (net 33 "Net-(Q4-C)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 374b4bfa-d71c-4dba-9585-3fa476f41e49))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 10 "Net-(U2C--)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 676442ff-050e-4037-9895-27865616c02b))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10370,7 +10370,7 @@
       (net 4 "VCC") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 55552933-1ea9-4913-9127-d25755901e1a))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 5 "VSS") (pintype "passive") (solder_mask_margin 0.0508) (tstamp b98be77e-7902-433c-be99-9921d5bfe397))
-    (model ":KICAD7_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
+    (model ":KICAD8_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10471,7 +10471,7 @@
       (net 25 "Net-(Q5-C)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 5f96ed2f-c60c-40a1-8ba9-8c89aecd47a9))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 32 "Net-(Q5-B)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp f21a273c-475a-4909-9332-4265432ef16f))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10544,7 +10544,7 @@
       (net 25 "Net-(Q5-C)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 2f6c9dfb-3812-463e-9ed2-2af208fdb02f))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 15 "Net-(C11-Pad2)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 2d9f575b-7353-4b2c-8346-0c33d1131887))
-    (model ":KICAD7_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
+    (model ":KICAD8_3DMODEL_DIR:Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10645,7 +10645,7 @@
       (net 48 "Net-(U2C-+)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 01c7eedd-b2d6-4ea8-9020-77d6e79bea70))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 46 "Net-(R21-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp ba4ecaeb-97a7-414a-bda9-6b867f26668b))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10746,7 +10746,7 @@
       (net 10 "Net-(U2C--)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 9649bb20-daf6-42d9-88c2-04646f1b08aa))
     (pad "2" thru_hole circle (at 5 0 180) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 46 "Net-(R21-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 4f042f9b-6211-40da-8861-1c9709c33600))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10847,7 +10847,7 @@
       (net 29 "Net-(Q3-B)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 55a02f27-6e80-4aae-8720-73b6df09e305))
     (pad "2" thru_hole circle (at 5 0 225) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 45 "Net-(R18-Pad1)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp aaa089ba-74e4-4852-89fb-8d373b366377))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10948,7 +10948,7 @@
       (net 21 "Filter Cutoff") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 24a4ca63-b712-465d-86c1-74d52967c3aa))
     (pad "2" thru_hole circle (at 5 0 90) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 32 "Net-(Q5-B)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 1f290a29-7c77-49be-9472-6c1e931d07a2))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11049,7 +11049,7 @@
       (net 5 "VSS") (pintype "passive") (solder_mask_margin 0.0508) (tstamp 4b35087c-b050-4d1b-a03f-bf4b87c0ed76))
     (pad "2" thru_hole circle (at 5 0) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 59 "Net-(JP1-A)") (pintype "passive") (solder_mask_margin 0.0508) (tstamp d1684e72-79bf-4351-a267-2352a63f50cc))
-    (model ":KICAD7_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
+    (model ":KICAD8_3DMODEL_DIR:Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
